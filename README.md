@@ -49,7 +49,7 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src=assets/Dashboard.jpg" alt="Screenshot 4" width="400"><br>
+      <img src="assets/Dashboard.jpg" alt="Screenshot 4" width="400"><br>
       <em>Dashboard</em>
     </td>
     <td align="center" width="33%">
