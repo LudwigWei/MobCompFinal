@@ -20,7 +20,6 @@
 ## About the Project
 **InSync - Smart Control System** is a user-friendly platform that enables seamless management of smart home devices through a web interface and an mobile application. It allows users to monitor and control various devices like lighting, fans, sound and air quality sensors. With a focus on intuitive design, real-time device control, and responsive automation, InSync simplifies the integration and management of smart home systems, offering a streamlined user experience.
 
-## Key Features
 
 ## Key Features
 
