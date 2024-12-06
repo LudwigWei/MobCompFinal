@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/learning"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    >
+
+    <TextView
+        android:id="@+id/profileTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/leaguespartan_bold"
+        android:text="LEARNING\nMODULES"
+        android:textColor="@color/black"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.041" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/module1"
+        android:layout_width="370dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="30dp"
+        android:clickable="true"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="15dp"
+        app:cardElevation="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/profileTitle"
+        app:layout_constraintVertical_bias="0.054"
+        app:rippleColor="#A6A6A6"
+        app:strokeColor="#B1B1B1"
+        app:strokeWidth="1dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="25dp"
+            android:fontFamily="@font/leaguespartan_bold"
+            android:text="MODULE 1"
+            android:textColor="@color/black"
+            android:textSize="40dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="95dp"
+            android:fontFamily="@font/leaguespartan_regular"
+            android:text="Intrudoction to IOT"
+            android:textColor="@color/black"
+            android:textSize="25dp"
+            android:textStyle="bold"/>
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/module2"
+        android:layout_width="370dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="30dp"
+        android:clickable="true"
+        app:rippleColor="#A6A6A6"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="15dp"
+        app:cardElevation="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/module1"
+        app:layout_constraintVertical_bias="0.0"
+        app:strokeColor="#B1B1B1"
+        app:strokeWidth="1dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="25dp"
+            android:fontFamily="@font/leaguespartan_bold"
+            android:text="MODULE 2"
+            android:textColor="@color/black"
+            android:textSize="40dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="95dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/leaguespartan_regular"
+            android:text="IOT Architecture &amp; Components"
+            android:textColor="@color/black"
+            android:textSize="25dp" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/module3"
+        android:layout_width="370dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="30dp"
+        android:clickable="true"
+        app:rippleColor="#A6A6A6"
+        app:cardBackgroundColor="@color/white"
+        app:cardCornerRadius="15dp"
+        app:cardElevation="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/module2"
+        app:layout_constraintVertical_bias="0.0"
+        app:strokeColor="#B1B1B1"
+        app:strokeWidth="1dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="25dp"
+            android:fontFamily="@font/leaguespartan_bold"
+            android:text="MODULE 3"
+            android:textColor="@color/black"
+            android:textSize="40dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="95dp"
+            android:textStyle="bold"
+            android:fontFamily="@font/leaguespartan_regular"
+            android:text="IoT Security and Privacy"
+            android:textColor="@color/black"
+            android:textSize="25dp" />
+
+    </com.google.android.material.card.MaterialCardView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView"
+        style="@style/CustomBottomNavigation"
+        android:paddingTop="12dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/bottom_navigation_menu" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
