@@ -22,13 +22,136 @@
 
 ## Key Features
 
-## Usage
-- Open the dashboard by clicking the menu icon in the bottom navigation bar.
-- Sign up for an account or log in to personalize your experience.
-- Use the main navigation menu to explore sections like Smart Lamp, Smart Fan, Speaker, and Thermometer.
-- Control devices by toggling their switches or selecting specific options from their dedicated sections.
-- View analytics such as Monthly Electric Consumption to track usage patterns.
+## Key Features
 
+### Smart Device Control
+- **Comprehensive Room Management**
+  - Room-specific device control
+  - Customizable room settings
+  - Intuitive interface for each space
+
+- **Device Integration**
+  - Smart lighting control
+  - Temperature and humidity monitoring
+  - Sound system management
+  - Real-time sensor data
+
+### User Experience
+- **Intuitive Dashboard**
+  - Clean, modern interface
+  - Easy navigation between rooms
+  - Quick access to essential controls
+
+- **Real-time Monitoring**
+  - Live temperature readings
+  - Humidity level tracking
+  - Sound level monitoring
+  - Instant device status updates
+
+### Security & Authentication
+- **Secure User Access**
+  - Email-based authentication
+  - Password recovery system
+  - Profile management
+  - Secure data storage
+
+### Data & Analytics
+- **Performance Tracking**
+  - Device usage statistics
+  - Energy consumption monitoring
+  - Historical data analysis
+  - System performance metrics
+
+### Educational Content
+- **Learning Resources**
+  - Introduction to IoT
+  - IoT Architecture and its Components
+  - IoT Security and Privacy
+
+## Usage
+
+### Getting Started
+1. **User Authentication**
+   - Create a new account or log in with existing credentials
+   - Set up your profile and preferences
+   - Reset password if needed through the forgot password feature
+
+### Dashboard Navigation
+1. **Room Selection**
+   - Navigate between different rooms (Living Room, Bedroom, Kitchen)
+   - View room-specific devices and controls
+   - Real-time status updates for each room
+
+2. **Device Control**
+   - **Smart Lighting**
+     - Toggle lights on/off
+     - View current status
+   - **Temperature Control**
+     - Monitor real-time temperature readings
+     - View humidity levels
+   - **Sound System**
+     - Control audio devices
+     - Adjust volume settings
+   - **Sensor Monitoring**
+     - Track environmental data
+     - View sensor statistics
+
+### Additional Features
+1. **Analytics**
+   - View device usage statistics
+   - Monitor energy consumption
+   - Track system performance
+
+2. **Profile Management**
+   - Update user information
+   - Customize app settings
+   - Manage notification preferences
+
+3. **Learning Resources**
+   - Access educational content
+
+### Getting Started
+1. **User Authentication**
+   - Create a new account or log in with existing credentials
+   - Set up your profile and preferences
+   - Reset password if needed through the forgot password feature
+
+### Dashboard Navigation
+1. **Room Selection**
+   - Navigate between different rooms (Living Room, Bedroom, Kitchen)
+   - View room-specific devices and controls
+   - Real-time status updates for each room
+
+2. **Device Control**
+   - **Smart Lighting**
+     - Toggle lights on/off
+     - View current status
+   - **Temperature Control**
+     - Monitor real-time temperature readings
+     - View humidity levels
+   - **Sound System**
+     - Control audio devices
+     - Adjust volume settings
+   - **Sensor Monitoring**
+     - Track environmental data
+     - View sensor statistics
+
+### Additional Features
+1. **Analytics**
+   - View device usage statistics
+   - Monitor energy consumption
+   - Track system performance
+
+2. **Profile Management**
+   - Update user information
+   - Customize app settings
+   - Manage notification preferences
+
+3. **Learning Resources**
+   - Access educational content
+   - View system documentation
+   - Explore feature tutorials
+     
 ## Technologies Used
 
 ### Mobile Application Development
