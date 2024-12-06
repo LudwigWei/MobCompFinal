@@ -32,7 +32,42 @@
 ## Technologies Used
 
 ## Screenshots
-
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/LandingPage.jpg" alt="Screenshot 1" width="200"><br>
+      <em>Login Screen</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot2.jpg" alt="Screenshot 2" width="200"><br>
+      <em>Dashboard</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot3.jpg" alt="Screenshot 3" width="200"><br>
+      <em>Device Control</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot4.jpg" alt="Screenshot 4" width="200"><br>
+      <em>Analytics View</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot5.jpg" alt="Screenshot 5" width="200"><br>
+      <em>Settings</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="screenshots/screenshot6.jpg" alt="Screenshot 6" width="200"><br>
+      <em>Profile</em>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="screenshots/screenshot7.jpg" alt="Screenshot 7" width="600"><br>
+      <em>Full System Overview</em>
+    </td>
+  </tr>
+</table>
 
 ## Contributing
 
