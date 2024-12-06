@@ -194,6 +194,10 @@
 <table>
   <tr>
     <td align="center" width="33%">
+      <img src="assets/Device.jpg" alt="Device" width="400"><br>
+      <em>Device</em>
+    </td>
+    <td align="center" width="33%">
       <img src="assets/LandingPage.jpg" alt="Screenshot 1" width="400"><br>
       <em>Landing Page</em>
     </td>
