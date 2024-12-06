@@ -35,16 +35,16 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="assets/LandingPage.jpg" alt="Screenshot 1" width="200"><br>
-      <em>Login Screen</em>
+      <img src="assets/LandingPage.jpg" alt="Screenshot 1" width="400"><br>
+      <em>Landing Page</em>
     </td>
     <td align="center" width="33%">
-      <img src="screenshots/screenshot2.jpg" alt="Screenshot 2" width="200"><br>
-      <em>Dashboard</em>
+      <img src="assets/LandingPageLogIn.jpg" alt="Screenshot 2" width="400"><br>
+      <em>Log In Page</em>
     </td>
     <td align="center" width="33%">
-      <img src="screenshots/screenshot3.jpg" alt="Screenshot 3" width="200"><br>
-      <em>Device Control</em>
+      <img src="assets/SignUp.jpg" alt="Screenshot 3" width="400"><br>
+      <em>Sign Up Page</em>
     </td>
   </tr>
   <tr>
