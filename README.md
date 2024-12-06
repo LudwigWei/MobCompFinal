@@ -39,7 +39,7 @@
       <em>Landing Page</em>
     </td>
     <td align="center" width="33%">
-      <img src="assets/LandingPageLogIn.jpg" alt="Screenshot 2" width="400"><br>
+      <img src="assets/LogIn.jpg" alt="Screenshot 2" width="400"><br>
       <em>Log In Page</em>
     </td>
     <td align="center" width="33%">
@@ -49,22 +49,22 @@
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="screenshots/screenshot4.jpg" alt="Screenshot 4" width="200"><br>
-      <em>Analytics View</em>
+      <img src=assets/Dashboard.jpg" alt="Screenshot 4" width="400"><br>
+      <em>Dashboard</em>
     </td>
     <td align="center" width="33%">
-      <img src="screenshots/screenshot5.jpg" alt="Screenshot 5" width="200"><br>
-      <em>Settings</em>
+      <img src="assets/Statistics.jpg" alt="Screenshot 5" width="400"><br>
+      <em>Statistics</em>
     </td>
     <td align="center" width="33%">
-      <img src="screenshots/screenshot6.jpg" alt="Screenshot 6" width="200"><br>
+      <img src="assets/Learning.jpg" alt="Screenshot 6" width="400"><br>
       <em>Profile</em>
     </td>
   </tr>
   <tr>
     <td align="center" colspan="3">
-      <img src="screenshots/screenshot7.jpg" alt="Screenshot 7" width="600"><br>
-      <em>Full System Overview</em>
+      <img src="assets/Profile.jpg" alt="Screenshot 7" width="400"><br>
+      <em>Profile</em>
     </td>
   </tr>
 </table>
