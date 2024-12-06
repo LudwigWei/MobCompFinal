@@ -254,52 +254,96 @@ Your feedback is invaluable in making **InSync - Smart Control System** better, 
 
 Thank you for contributing to the success of **InSync**!
 
-## About the Developers
+## About The Developers
 
-<table style="width: 100%; text-align: center; border-collapse: collapse; table-layout: fixed;">
-  <tr>
-    <td style="border: 1px solid #ccc; border-radius: 10px; vertical-align: top; width: 33.33%;">
-      <h3>PROJECT MANAGER</h3>
-      <p><strong>Louis Vincent A. Crisaldo</strong></p>
-      <p>Oversees the project and coordinates<br> the development. Works on both frontend and backend tasks to integrate systems and ensure a seamless user experience.</p>
-      <p><strong>Contact:</strong></p>
-      <ul style="list-style: none; padding: 0;">
-        <li>22-00717@g.batstate-u.edu.ph</li>
-        <li>GitHub: <a href="https://github.com/LudwigWei" target="_blank">LudwigWei</a></li>
-      </ul>
-    </td>
+<div align="center">
 
-  <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; vertical-align: top; width: 25%;">
-      <h3>PROJECT MANAGER</h3>
-      <p><strong>Zedric Edward C. Hernandez</strong></p>
-      <p>Leads project strategy and resource<br> allocation. Ensures timely delivery of milestones while maintaining high standards for team collaboration and performance.</p>
-      <p><strong>Contact:</strong></p>
-      <ul style="list-style: none; padding: 0;">
-        <li>Contact info not provided</li>
-        <li>GitHub: <a href="https://github.com/zedricedwardc" target="_blank">zedricedwardc</a></li>
-      </ul>
-    </td>
+### 👥 Meet Our Team
 
-  <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; vertical-align: top; width: 33.33%;">
-      <h3>FRONTEND DEVELOPER</h3>
-      <p><strong>Christian Kriel M. Quejada</strong></p>
-      <p>Responsible for designing and<br>implementing the user interface (UI) and user experience (UX), ensuring the platform is responsive and visually appealing across devices.</p>
-     <p><strong>Contact:</strong></p>
-      <ul style="list-style: none; padding: 0;">
-        <li>22-05358@g.batstate-u.edu.ph</li>
-        <li>GitHub: <a href="https://github.com/kary3l" target="_blank">kary3l</a></li>
-      </ul>
-    </td>
+<table align="center" style="margin: 0 auto;">
+<tr>
+<td align="center" width="280px">
+<img src="https://github.com/LudwigWei.png" width="150px;" style="border-radius: 50%"/><br />
+<sub><b>Louis Vincent A. Crisaldo</b></sub><br />
+<sub>Project Manager</sub><br /><br />
+<a href="mailto:22-00717@g.batstate-u.edu.ph">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/LudwigWei">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
 
-  <td style="border: 1px solid #ccc; border-radius: 10px; padding: 20px; vertical-align: top; width: 33.33%;">
-      <h3>BACKEND DEVELOPER</h3>
-      <p><strong>Jeroein Lloyd P. Magno</strong></p>
-      <p>Handles server-side logic, database<br>management, builds APIs, optimizes performance, ensures system reliability, and implements scalable solutions for efficient data handling and processing.</p>
-     <p><strong>Contact:</strong></p>
-      <ul style="list-style: none; padding: 0;">
-        <li>22-04009@g.batstate-u.edu.ph</li>
-        <li>GitHub: <a href="https://github.com/JeroeinMagno" target="_blank">JeroeinMagno</a></li>
-      </ul>
-    </td>
-  </tr>
+<td align="center" width="280px">
+<img src="https://github.com/zedricedwardc.png" width="150px;" style="border-radius: 50%"/><br />
+<sub><b>Zedric Edward C. Hernandez</b></sub><br />
+<sub>Project Manager</sub><br /><br />
+<a href="https://github.com/zedricedwardc">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="280px">
+<img src="https://github.com/kary3l.png" width="150px;" style="border-radius: 50%"/><br />
+<sub><b>Christian Kriel M. Quejada</b></sub><br />
+<sub>Frontend Developer</sub><br /><br />
+<a href="mailto:22-05358@g.batstate-u.edu.ph">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/kary3l">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+
+<td align="center" width="280px">
+<img src="https://github.com/JeroeinMagno.png" width="150px;" style="border-radius: 50%"/><br />
+<sub><b>Jeroein Lloyd P. Magno</b></sub><br />
+<sub>Backend Developer</sub><br /><br />
+<a href="mailto:22-04009@g.batstate-u.edu.ph">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/JeroeinMagno">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td align="center" colspan="2">
+<table align="center">
+<tr>
+<td width="280px" align="center">
+<h4>Project Management</h4>
+• Team coordination<br/>
+• Resource allocation<br/>
+• Timeline management
+</td>
+<td width="280px" align="center">
+<h4>Project Strategy</h4>
+• Technical planning<br/>
+• Quality assurance<br/>
+• Team leadership
+</td>
+</tr>
+<tr>
+<td width="280px" align="center">
+<h4>Frontend Development</h4>
+• UI/UX design<br/>
+• Interface implementation<br/>
+• User experience
+</td>
+<td width="280px" align="center">
+<h4>Backend Development</h4>
+• Server management<br/>
+• Database design<br/>
+• API integration
+</td>
+</tr>
 </table>
+</td>
+</tr>
+</table>
+
+</div>
