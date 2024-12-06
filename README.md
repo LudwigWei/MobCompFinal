@@ -5,7 +5,7 @@
 <h1 align="center">InSync - Smart-Control-System</h1>
 
 <p style="text-align: justify;">
-  <strong>InSync - Smart Control System</strong> is a comprehensive platform designed to give users seamless control over their smart home devices through a web and application interface. It enables real-time monitoring and management of a variety of devices, including lights, door locks, air quality monitors, and climate controls. With a focus on intuitive design and ease of use, InSync offers customizable automation, efficient data handling, and a fully responsive interface. The result is an integrated smart home experience that adapts to the user's needs, making home automation simple, convenient, and effective.
+  <strong>InSync - Smart Control System</strong> is a comprehensive platform designed to give users seamless control over their smart home devices through a web interface and mobile application. It enables real-time monitoring and management of a variety of devices, including lights, door locks, air quality monitors, and climate controls. With a focus on intuitive design and ease of use, InSync offers customizable automation, efficient data handling, and a fully responsive interface. The result is an integrated smart home experience that adapts to the user's needs, making home automation simple, convenient, and effective.
 </p>
 
 ## Table of Contents
@@ -18,7 +18,7 @@
 9.  [About The Developers](#about-the-developers)
 
 ## About the Project
-**InSync - Smart Control System** is a user-friendly platform that enables seamless management of smart home devices through a web interface and an android application. It allows users to monitor and control various devices like lighting, fans, sound and air quality sensors. With a focus on intuitive design, real-time device control, and responsive automation, InSync simplifies the integration and management of smart home systems, offering a streamlined user experience.
+**InSync - Smart Control System** is a user-friendly platform that enables seamless management of smart home devices through a web interface and an mobile application. It allows users to monitor and control various devices like lighting, fans, sound and air quality sensors. With a focus on intuitive design, real-time device control, and responsive automation, InSync simplifies the integration and management of smart home systems, offering a streamlined user experience.
 
 ## Key Features
 
@@ -31,6 +31,43 @@
 
 ## Technologies Used
 
+### Mobile Application Development
+- **Android Studio** - Primary IDE for Android app development
+- **Java** - Main programming language
+- **XML** - UI layout design
+- **Material Design Components** (v1.11.0) - Modern UI components
+- **AndroidX** 
+  - AppCompat (v1.6.1)
+  - ConstraintLayout (v2.1.4)
+  - Activity (v1.8.2)
+
+### Backend Services
+- **Firebase**
+  - Authentication (v22.3.0) - User management
+  - Cloud Firestore (v24.10.0) - Database
+  - Realtime Database (v20.3.0) - Real-time data
+  - Cloud Storage (v20.3.0) - File storage
+
+### Hardware & IoT
+- **Arduino** - Microcontroller for hardware integration
+  - Arduino IDE
+  - Sensors and actuators
+  - WiFi connectivity
+
+### Data Visualization
+- **MPAndroidChart** (v3.1.0) - Charts and graphs
+- **Glide** (v4.12.0) - Image loading and caching
+
+### Design Tools
+- **Figma** - UI/UX design and prototyping
+  - Wireframing
+  - Interactive prototyping
+  - Design system management
+- **Canva** - Graphics and presentation design
+
+### Version Control
+- **Git** - Version control system
+- **GitHub** - Repository hosting
 ## Screenshots
 <table>
   <tr>
