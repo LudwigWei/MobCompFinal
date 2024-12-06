@@ -32,8 +32,7 @@
 ## Technologies Used
 
 ## Screenshots
-![Landing Page](assets/LandingPage.jpg)
-![Lighting Control](assets/lightcontrol.png)
+
 
 ## Contributing
 
